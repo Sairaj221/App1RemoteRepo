@@ -1,1 +1,3 @@
 Hi all this is Notepad file 4
+File 4 is modified in branch 4
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
